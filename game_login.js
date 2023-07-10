@@ -1,4 +1,4 @@
-function adduser() {
+function addUser() {
     var player1Name = document.getElementById("player1_name").value;
     var player2Name = document.getElementById("player2_name").value;
 
